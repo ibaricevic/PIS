@@ -8,8 +8,9 @@ namespace _1.lab
 {
     internal class Class1
     {
+        // promjena 3
+
     }
 }
 
 // promjena u klasiž
-// promjena 3
