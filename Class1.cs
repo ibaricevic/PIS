@@ -13,4 +13,4 @@ namespace _1.lab
     }
 }
 
-// promjena u klasiž
+// promjena u klasi
