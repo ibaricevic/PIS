@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Novo");
 Console.WriteLine("Drugo");
+Console.WriteLine("Kolega");
